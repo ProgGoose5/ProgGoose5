@@ -5,9 +5,7 @@
 - Currently learning C, but im looking forward for more.
 - I wish to collaborate in any C proyect.
 - Fun fact: Geese are my favorite animal.
-- 
+  
 ![](https://raw.githubusercontent.com/ProgGoose5/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ProgGoose5/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-<a href="https://github.com/ProgGoose5/github-stats">
-<img src="https://github.com/ProgGoose5/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/ProgGoose5/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
