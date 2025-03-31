@@ -6,8 +6,9 @@
 - I wish to collaborate in any C proyect.
 - Fun fact: Geese are my favorite animal.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ProgGoose5)](https://git.io/streak-stats)
 
