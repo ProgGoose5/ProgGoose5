@@ -6,7 +6,7 @@
 - I wish to collaborate in any C proyect.
 - Fun fact: Geese are my favorite animal.
 
-![](https://raw.githubusercontent.com/ProgGoose5/PersonalStadistics/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/ProgGoose5/PersonalStadistics/blob/master/generated/languages.svg)
 
 ![](https://raw.githubusercontent.com/ProgGoose5/PersonalStadistics/master/generated/languages.svg)
   
