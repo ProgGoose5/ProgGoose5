@@ -5,6 +5,9 @@
 - Currently learning C, but im looking forward for more.
 - I wish to collaborate in any C proyect.
 - Fun fact: Geese are my favorite animal.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ProgGoose5)](https://git.io/streak-stats)
 
