@@ -6,9 +6,9 @@
 - I wish to collaborate in any C proyect.
 - Fun fact: Geese are my favorite animal.
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ProgGoose5/github-stats-g/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ProgGoose5/github-stats-g/master/generated/languages.svg#gh-dark-mode-only)
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ProgGoose5)](https://git.io/streak-stats#gh-dark-mode-only)
 
